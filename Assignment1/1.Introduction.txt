@@ -1,0 +1,28 @@
+# Instructions
+
+- A github repository will be created to store all the tasks done by everyone. You guys will have to fork it, add your contributions to your fork in a separate folder of your name and send me a pull request whenever your task is complete.
+- Your solutions shall be in proper format, all well documented and detailed. Don't forget to comment your code well. Your solutions shall be complete and the answer to each and every question should be there.
+- Ask the most trivial doubts if you aren't clear on anything, there's no shame in learning. Discussions will follow each task and every trivial and intelligent question shall be answered by you people, we shall add our inputs as well.
+- For the input, use any random number generator of your choice and store those inputs in a file. In your code read the inputs from stdin(scanf) only. Suppose `a.out` is your executable after compiling the code and `input.txt` contains all your test case integers, then use `./a.out < input.txt` to read from the input file directly via stdin.
+- Do not copy your solutions from the internet, Search for concepts if you have to, but don't copy!!
+- A code review shall also be done to encourage writing better code.
+- This doc will not look very professional as it was prepared in a clinch of time, but it will be helpful for you all the same.
+- When designing any Data Structure, its operations and various algorithms always do it on paper first. Think of it in abstract terms rather than in terms of code. Completely design the data structure, check for the correctness of its operations, check for any flaws, then jump onto writing code. Your Thinking Approach (document everything) should be independent of the language you use. Example of designing a Data Structure is given at the end of this doc.
+- Always write modular and encapsulated code. One function should know nothing about what goes on in the other function, all it should care about is the output.
+
+# Motivation
+
+Databases today store a huge amount of records for the perusal by various systems. We are generating data at a speed which is much much faster than what we can store, this is often refered to as the Big Data Tsunami. Pictures that we click, code that we write, the statuses that we post, almost everything that we do today generates data at some level. We store all this data somewhere on a silicon chip hoping to use it in the future.
+[What is a record in this context?]
+
+Quick retrieval of such stored records is very necessary for dynamic systems. There is a whole topic of study known as the Information Retrieval theory to deal with this, but our focus today would be on the roots of this theory, or rather the very Motivation for the development of it. Searching through the records to efficiently retrieve the record of our choice is the key and there are various methods to do it.
+
+# Knowing about your system architecture.
+
+For the sake of simplicity we will assume our model to allow random access list in which the records to be stored as a contiguous chunk of memory. This model is very obviously translated to the Data Structure we know as an array. It is the most basic Data Structure that is provided by any general purpose programming language to maintain a list of records. We shall employ our searching algorithms on these so called - arrays. Random access means that any part of the contiguous memory that has been allocated for use in your system can be accessed in constant time; in the context of arrays and programming languages, you can access any element of the allocated array without traversing it till that element and just by entering its index.
+
+There is an upper bound on the size of the array that can be allocated in your memory, and it varies from Machnine to machine. Memory here definitely means your computer's primary memory or in simple terms RAM. You should be aware by now that the RAM of your computer is divided into several segments, some of which are known to you as the stack memory and the heap memory. These segments do not have a fixed size and can grow to the limit of the total memory available.
+
+Can you write a program to find the upper bound to the size of an integer array? Make sure your allocation is dynamic (meaning the program you write should do it for you), and you don't declare an array in the stack area changing values manually until you reach the upper bound. [Hint: Start by allocating an integer array of size equal to 2 int blocks, if the array is allocated then the size you entered is allowed. Double the size of the allocated array each time till the computer cannot fit in anymore; the documentation of the `malloc()` function will be helpful ;). Design your solution well]. What is the answer that you get?
+
+Check the size of one int block by using the `sizeof()` function. Multiply this with the answer that you got previously. What is the answer? Is it in accordance to the size of the the RAM that you had been promised by the vendor?

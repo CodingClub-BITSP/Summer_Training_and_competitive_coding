@@ -1,0 +1,22 @@
+Simply put, Vectors are dynamic arrays. Their size attribute is dynamic and changes depending upon how full it is.
+
+Any Data Structure is defined for its use and the operations that can be performed upon it. Design a vector Data Structure of your own!!
+
+The advantage of such a Data Structure is ensuring **unbounded size** of array as well as **random access**.
+
+# Abstract Data Structure (around which the implementation shall be designed)
+
+Model: Dynamic List of records.
+
+Specifications:
+Add operation will add an element to the end of the list. Delete operation will remove the element from the end of the list.
+It should double its size whenever it is more than 90% filled and all the existing elements shall be copied to the newly allocated list. Its size should reduce to half whenever it becomes less than 40% filled and all the existing elements shall be again copied back to the smaller vector. (A designer can vary these percentages depending upon the system requirement).
+
+Maintain a `size` variable to store the size of the vector or simply upto what size it is filled and a `capacity` variable to store the maximum size that the vector can achieve.
+
+Assume that the size of these vectors remain much smaller than the total memory of your computer.
+
+# Cost Estimations
+
+What is the cost/Time Complexities of add, delete and re-allocation operations?
+
