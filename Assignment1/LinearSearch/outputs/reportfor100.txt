@@ -1,0 +1,303 @@
+40, 11, 46, 10, 45, 1, 48, 22, 29, 1, 10, 24, 6, 49, 49, 22, 8, 29, 5, 37, 24, 46, 18, 36, 40, 11, 33, 10, 8, 19, 20, 0, 33, 16, 11, 28, 17, 11, 2, 48, 12, 12, 24, 20, 13, 25, 44, 24, 5, 0, 11, 29, 46, 30, 17, 38, 41, 2, 48, 1, 22, 20, 2, 7, 37, 15, 35, 6, 26, 39, 7, 40, 1, 31, 13, 17, 9, 7, 41, 14, 7, 4, 45, 6, 34, 15, 46, 27, 17, 45, 31, 41, 15, 33, 48, 4, 48, 33, 11, 26, 
+Key found at 0
+For size of array=100, and key as the element no. 40 it took 0.000002 secs to search
+
+Key found at 1
+For size of array=100, and key as the element no. 11 it took 0.000001 secs to search
+
+Key found at 2
+For size of array=100, and key as the element no. 46 it took 0.000000 secs to search
+
+Key found at 3
+For size of array=100, and key as the element no. 10 it took 0.000001 secs to search
+
+Key found at 4
+For size of array=100, and key as the element no. 45 it took 0.000001 secs to search
+
+Key found at 5
+For size of array=100, and key as the element no. 1 it took 0.000001 secs to search
+
+Key found at 6
+For size of array=100, and key as the element no. 48 it took 0.000001 secs to search
+
+Key found at 7
+For size of array=100, and key as the element no. 22 it took 0.000001 secs to search
+
+Key found at 8
+For size of array=100, and key as the element no. 29 it took 0.000001 secs to search
+
+Key found at 5
+For size of array=100, and key as the element no. 1 it took 0.000001 secs to search
+
+Key found at 3
+For size of array=100, and key as the element no. 10 it took 0.000000 secs to search
+
+Key found at 11
+For size of array=100, and key as the element no. 24 it took 0.000001 secs to search
+
+Key found at 12
+For size of array=100, and key as the element no. 6 it took 0.000001 secs to search
+
+Key found at 13
+For size of array=100, and key as the element no. 49 it took 0.000001 secs to search
+
+Key found at 13
+For size of array=100, and key as the element no. 49 it took 0.000001 secs to search
+
+Key found at 7
+For size of array=100, and key as the element no. 22 it took 0.000001 secs to search
+
+Key found at 16
+For size of array=100, and key as the element no. 8 it took 0.000001 secs to search
+
+Key found at 8
+For size of array=100, and key as the element no. 29 it took 0.000001 secs to search
+
+Key found at 18
+For size of array=100, and key as the element no. 5 it took 0.000001 secs to search
+
+Key found at 19
+For size of array=100, and key as the element no. 37 it took 0.000001 secs to search
+
+Key found at 11
+For size of array=100, and key as the element no. 24 it took 0.000001 secs to search
+
+Key found at 2
+For size of array=100, and key as the element no. 46 it took 0.000000 secs to search
+
+Key found at 22
+For size of array=100, and key as the element no. 18 it took 0.000001 secs to search
+
+Key found at 23
+For size of array=100, and key as the element no. 36 it took 0.000001 secs to search
+
+Key found at 0
+For size of array=100, and key as the element no. 40 it took 0.000000 secs to search
+
+Key found at 1
+For size of array=100, and key as the element no. 11 it took 0.000001 secs to search
+
+Key found at 26
+For size of array=100, and key as the element no. 33 it took 0.000001 secs to search
+
+Key found at 3
+For size of array=100, and key as the element no. 10 it took 0.000000 secs to search
+
+Key found at 16
+For size of array=100, and key as the element no. 8 it took 0.000001 secs to search
+
+Key found at 29
+For size of array=100, and key as the element no. 19 it took 0.000001 secs to search
+
+Key found at 30
+For size of array=100, and key as the element no. 20 it took 0.000001 secs to search
+
+Key found at 31
+For size of array=100, and key as the element no. 0 it took 0.000001 secs to search
+
+Key found at 26
+For size of array=100, and key as the element no. 33 it took 0.000001 secs to search
+
+Key found at 33
+For size of array=100, and key as the element no. 16 it took 0.000001 secs to search
+
+Key found at 1
+For size of array=100, and key as the element no. 11 it took 0.000001 secs to search
+
+Key found at 35
+For size of array=100, and key as the element no. 28 it took 0.000001 secs to search
+
+Key found at 36
+For size of array=100, and key as the element no. 17 it took 0.000001 secs to search
+
+Key found at 1
+For size of array=100, and key as the element no. 11 it took 0.000001 secs to search
+
+Key found at 38
+For size of array=100, and key as the element no. 2 it took 0.000001 secs to search
+
+Key found at 6
+For size of array=100, and key as the element no. 48 it took 0.000001 secs to search
+
+Key found at 40
+For size of array=100, and key as the element no. 12 it took 0.000001 secs to search
+
+Key found at 40
+For size of array=100, and key as the element no. 12 it took 0.000001 secs to search
+
+Key found at 11
+For size of array=100, and key as the element no. 24 it took 0.000001 secs to search
+
+Key found at 30
+For size of array=100, and key as the element no. 20 it took 0.000001 secs to search
+
+Key found at 44
+For size of array=100, and key as the element no. 13 it took 0.000001 secs to search
+
+Key found at 45
+For size of array=100, and key as the element no. 25 it took 0.000001 secs to search
+
+Key found at 46
+For size of array=100, and key as the element no. 44 it took 0.000001 secs to search
+
+Key found at 11
+For size of array=100, and key as the element no. 24 it took 0.000001 secs to search
+
+Key found at 18
+For size of array=100, and key as the element no. 5 it took 0.000001 secs to search
+
+Key found at 31
+For size of array=100, and key as the element no. 0 it took 0.000001 secs to search
+
+Key found at 1
+For size of array=100, and key as the element no. 11 it took 0.000001 secs to search
+
+Key found at 8
+For size of array=100, and key as the element no. 29 it took 0.000001 secs to search
+
+Key found at 2
+For size of array=100, and key as the element no. 46 it took 0.000001 secs to search
+
+Key found at 53
+For size of array=100, and key as the element no. 30 it took 0.000001 secs to search
+
+Key found at 36
+For size of array=100, and key as the element no. 17 it took 0.000001 secs to search
+
+Key found at 55
+For size of array=100, and key as the element no. 38 it took 0.000002 secs to search
+
+Key found at 56
+For size of array=100, and key as the element no. 41 it took 0.000001 secs to search
+
+Key found at 38
+For size of array=100, and key as the element no. 2 it took 0.000001 secs to search
+
+Key found at 6
+For size of array=100, and key as the element no. 48 it took 0.000001 secs to search
+
+Key found at 5
+For size of array=100, and key as the element no. 1 it took 0.000001 secs to search
+
+Key found at 7
+For size of array=100, and key as the element no. 22 it took 0.000001 secs to search
+
+Key found at 30
+For size of array=100, and key as the element no. 20 it took 0.000001 secs to search
+
+Key found at 38
+For size of array=100, and key as the element no. 2 it took 0.000001 secs to search
+
+Key found at 63
+For size of array=100, and key as the element no. 7 it took 0.000001 secs to search
+
+Key found at 19
+For size of array=100, and key as the element no. 37 it took 0.000001 secs to search
+
+Key found at 65
+For size of array=100, and key as the element no. 15 it took 0.000001 secs to search
+
+Key found at 66
+For size of array=100, and key as the element no. 35 it took 0.000001 secs to search
+
+Key found at 12
+For size of array=100, and key as the element no. 6 it took 0.000001 secs to search
+
+Key found at 68
+For size of array=100, and key as the element no. 26 it took 0.000001 secs to search
+
+Key found at 69
+For size of array=100, and key as the element no. 39 it took 0.000001 secs to search
+
+Key found at 63
+For size of array=100, and key as the element no. 7 it took 0.000001 secs to search
+
+Key found at 0
+For size of array=100, and key as the element no. 40 it took 0.000000 secs to search
+
+Key found at 5
+For size of array=100, and key as the element no. 1 it took 0.000001 secs to search
+
+Key found at 73
+For size of array=100, and key as the element no. 31 it took 0.000002 secs to search
+
+Key found at 44
+For size of array=100, and key as the element no. 13 it took 0.000001 secs to search
+
+Key found at 36
+For size of array=100, and key as the element no. 17 it took 0.000001 secs to search
+
+Key found at 76
+For size of array=100, and key as the element no. 9 it took 0.000002 secs to search
+
+Key found at 63
+For size of array=100, and key as the element no. 7 it took 0.000001 secs to search
+
+Key found at 56
+For size of array=100, and key as the element no. 41 it took 0.000001 secs to search
+
+Key found at 79
+For size of array=100, and key as the element no. 14 it took 0.000001 secs to search
+
+Key found at 63
+For size of array=100, and key as the element no. 7 it took 0.000002 secs to search
+
+Key found at 81
+For size of array=100, and key as the element no. 4 it took 0.000001 secs to search
+
+Key found at 4
+For size of array=100, and key as the element no. 45 it took 0.000000 secs to search
+
+Key found at 12
+For size of array=100, and key as the element no. 6 it took 0.000001 secs to search
+
+Key found at 84
+For size of array=100, and key as the element no. 34 it took 0.000002 secs to search
+
+Key found at 65
+For size of array=100, and key as the element no. 15 it took 0.000001 secs to search
+
+Key found at 2
+For size of array=100, and key as the element no. 46 it took 0.000000 secs to search
+
+Key found at 87
+For size of array=100, and key as the element no. 27 it took 0.000002 secs to search
+
+Key found at 36
+For size of array=100, and key as the element no. 17 it took 0.000001 secs to search
+
+Key found at 4
+For size of array=100, and key as the element no. 45 it took 0.000001 secs to search
+
+Key found at 73
+For size of array=100, and key as the element no. 31 it took 0.000001 secs to search
+
+Key found at 56
+For size of array=100, and key as the element no. 41 it took 0.000001 secs to search
+
+Key found at 65
+For size of array=100, and key as the element no. 15 it took 0.000001 secs to search
+
+Key found at 26
+For size of array=100, and key as the element no. 33 it took 0.000000 secs to search
+
+Key found at 6
+For size of array=100, and key as the element no. 48 it took 0.000000 secs to search
+
+Key found at 81
+For size of array=100, and key as the element no. 4 it took 0.000002 secs to search
+
+Key found at 6
+For size of array=100, and key as the element no. 48 it took 0.000001 secs to search
+
+Key found at 26
+For size of array=100, and key as the element no. 33 it took 0.000001 secs to search
+
+Key found at 1
+For size of array=100, and key as the element no. 11 it took 0.000001 secs to search
+
+Key found at 68
+For size of array=100, and key as the element no. 26 it took 0.000001 secs to search
+
+Avg time used is 0.000001 secs
+For size of array=100, and key as 100, it took 0.000002 secs as the worst time to search
