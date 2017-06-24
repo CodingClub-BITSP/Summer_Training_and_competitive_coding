@@ -1,0 +1,28 @@
+For a Linear Search Algorithm
+
+
+In an array with 10 elements
+The avg. time for searching is  0.000000s 
+The avg. no of comparisons is  5
+
+
+In an array with 100 elements
+The avg. time for searching is  0.000001s 
+The avg. no of comparisons is  51
+
+
+In an array with 1000 elements
+The avg. time for searching is  0.000002s 
+The avg. no of comparisons is  490
+
+
+In an array with 10000 elements
+The avg. time for searching is  0.000016s 
+The avg. no of comparisons is  5136
+
+
+In an array with 100000 elements
+The avg. time for searching is  0.000163s 
+The avg. no of comparisons is  50274
+
+
