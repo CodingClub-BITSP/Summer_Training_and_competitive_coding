@@ -6,8 +6,8 @@ int size_of_ram(int, int);
 void main()
 {
 	int size = 0;
-	int t = size_of_ram(1048576,size);
-	printf("%d\n",t );
+	size = size_of_ram(1073741824,size);               //1 GB = 1073741824 = 1024*1024*1024 bytes
+	printf("%d\n",size );
 
 }
 
