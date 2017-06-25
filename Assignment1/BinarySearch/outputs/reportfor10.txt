@@ -1,0 +1,6 @@
+
+For Size : 10, Avg time used was 3.340000 secs
+For Size : 10, No. of successes was 1.
+For size of array=10, and key as 10001, it took 0.000000 secs as the worst time to search
+Array 
+ [ 829, 1834, 2684, 5232, 5381, 5655, 7129, 8808, 8810, 9443 ] 

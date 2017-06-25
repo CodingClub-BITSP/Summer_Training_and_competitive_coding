@@ -1,0 +1,22 @@
+This algorithm requires the list of records to be sorted. For now we shall assume an integer array and the search key to be an integer as well. (Make sure the inputs are sorted)
+
+# Algorithm
+
+BinSearch(ls, key, lo, hi){
+
+	mid = (hi - lo)/2;
+
+	if(ls[mid] is equal to key){
+		return mid;
+	}else if(ls[mid] is greater than key){
+		return BinSearch(ls, key, mid + 1, hi);
+	}else{
+		return BinSearch(ls, key, lo, hi - 1);
+	}
+}
+
+This is the recursive version of Binary Search. Can you convert it to its iterative form? Design an implementation for iterative version of binary search (Don't look up on the internet). How did you approach this problem?
+
+Similar to what you did in Linear Search measure the running time and the number of comparisons for different sizes and different search key. Average them out in the end. Estimate the worst case Time Complexity for this Algorithm [with proper arguments].
+
+Compare this algorithm with Linear Search. 
