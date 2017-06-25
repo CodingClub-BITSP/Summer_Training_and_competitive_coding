@@ -1,3 +1,4 @@
+//just the logic
 #include<stdio.h>
 #include<stdlib.h>
 void main()
@@ -12,11 +13,11 @@ void main()
 		free(arr);//sum=sum+(sizeof(int))*k;
 	}
 	printf("%d\n",k);
-	printf("%d\n",(sizeof(int))*k);
+	printf("%d\n",(sizeof(int))*k);//returns a negative value,due to the free() used.But the magnitude is the answer required
 	//printf("%d",sum);
 }
 //returns 2GB;
-//Using realloc()
+//Using realloc() just an example..Not related to the given problem
 /*#include <stdio.h>
 #include <stdlib.h>
 
