@@ -1,0 +1,17 @@
+A very trivial and brute force algorithm to search for a record in a list of records would be to check every element for it. Here is a recursive design approach for linear searching.
+
+```
+LinSearch(list, start, size, key){
+
+	if(list[start] is equal to key and start is less than or equal to size)
+		return list[start];
+	else
+		return LinSearch(list, start + 1, size, key);
+}
+```
+
+Design an iterative approach for linear search and implement it.
+
+Use C's <time.h> library to measure the running time of this algorithm for 10, 100, 1000, 10000, 100000 inputs sizes of arrays. Also measure the number of comparisons that you used while searching for a record. Measure each of it 1000 times (changing the search key every time) and average them out. Store the results in a file.
+
+Can you estimate the worst case Time Complexity for this Algorithm that you designed, considering the size of the array as the input size? [Give proper arguments for it]

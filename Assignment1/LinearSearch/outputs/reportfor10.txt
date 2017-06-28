@@ -1,0 +1,33 @@
+47, 11, 0, 39, 39, 28, 15, 16, 29, 45, 
+Key found at 0
+For size of array=10, and key as the element no. 47 it took 0.000001 secs to search
+
+Key found at 1
+For size of array=10, and key as the element no. 11 it took 0.000000 secs to search
+
+Key found at 2
+For size of array=10, and key as the element no. 0 it took 0.000001 secs to search
+
+Key found at 3
+For size of array=10, and key as the element no. 39 it took 0.000001 secs to search
+
+Key found at 3
+For size of array=10, and key as the element no. 39 it took 0.000000 secs to search
+
+Key found at 5
+For size of array=10, and key as the element no. 28 it took 0.000000 secs to search
+
+Key found at 6
+For size of array=10, and key as the element no. 15 it took 0.000001 secs to search
+
+Key found at 7
+For size of array=10, and key as the element no. 16 it took 0.000000 secs to search
+
+Key found at 8
+For size of array=10, and key as the element no. 29 it took 0.000001 secs to search
+
+Key found at 9
+For size of array=10, and key as the element no. 45 it took 0.000001 secs to search
+
+Avg time used is 0.000001 secs
+For size of array=10, and key as 100, it took 0.000001 secs as the worst time to search
