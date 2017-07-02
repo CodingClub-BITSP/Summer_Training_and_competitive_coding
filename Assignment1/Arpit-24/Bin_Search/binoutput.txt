@@ -1,0 +1,23 @@
+Total time for 10 times loop run = 0.000002s
+
+Avg. time for 10 times loop run = 0.000000s
+
+Avg. No. of comparisons made : 2
+
+Total time for 100 times loop run = 0.000018s
+
+Avg. time for 100 times loop run = 0.000000s
+
+Avg. No. of comparisons made : 5
+
+Total time for 1000 times loop run = 0.000206s
+
+Avg. time for 1000 times loop run = 0.000000s
+
+Avg. No. of comparisons made : 8
+
+Total time for 10000 times loop run = 0.002067s
+
+Avg. time for 10000 times loop run = 0.000000s
+
+Avg. No. of comparisons made : 12

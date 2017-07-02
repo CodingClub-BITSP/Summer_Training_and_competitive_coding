@@ -1,0 +1,52 @@
+
+
+What would you like to do? (A-Add,D-Delete,V-View,E-Exit) : 
+
+Enter Number to add : 
+
+Time taken for Addition is 0.000003s
+
+Time taken for Replacement is 0.000069s
+
+New Vector : 16	13	62	81	95	39	99	18	7	
+
+What would you like to do? (A-Add,D-Delete,V-View,E-Exit) : 
+
+Enter Number to add : 
+
+Time taken for Addition is 0.000001s
+
+New Vector : 16	13	62	81	95	39	99	18	7	9	
+
+What would you like to do? (A-Add,D-Delete,V-View,E-Exit) : 16	13	62	81	95	39	99	18	7	9	
+
+What would you like to do? (A-Add,D-Delete,V-View,E-Exit) : 16	13	62	81	95	39	99	18	7	9	
+
+What would you like to do? (A-Add,D-Delete,V-View,E-Exit) : 
+
+Time taken for Deletion is 0.000001s
+
+New Vector : 16	13	62	81	95	39	99	18	7	
+
+What would you like to do? (A-Add,D-Delete,V-View,E-Exit) : 16	13	62	81	95	39	99	18	7	
+
+What would you like to do? (A-Add,D-Delete,V-View,E-Exit) : 
+
+Time taken for Deletion is 0.000000s
+
+Time taken for Replacement is 0.000006s
+
+New Vector : 16	13	62	81	95	39	99	18	
+
+What would you like to do? (A-Add,D-Delete,V-View,E-Exit) : 16	13	62	81	95	39	99	18	
+
+What would you like to do? (A-Add,D-Delete,V-View,E-Exit) : 
+
+Time taken for Deletion is 0.000001s
+
+New Vector : 16	13	62	81	95	39	99	
+
+What would you like to do? (A-Add,D-Delete,V-View,E-Exit) : 16	13	62	81	95	39	99	
+
+What would you like to do? (A-Add,D-Delete,V-View,E-Exit) : 
+Thank You!!
